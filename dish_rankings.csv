@@ -1,0 +1,814 @@
+Dish,Count
+rice,19029
+chicken,13114
+beef,7157
+chinese food,6129
+pork,6040
+shrimp,5359
+fried rice,4713
+oca,4420
+meat,3719
+dim sum,3555
+buffet,3003
+salt,2723
+asti,2606
+egg roll,2108
+wonton,2104
+dumplings,1992
+orange chicken,1804
+seafood,1535
+garlic,1452
+broccoli,1447
+noodle soup,1410
+tuna,1323
+panda express,1260
+mongolian beef,1256
+bra,1181
+onion,1166
+beans,1113
+spring roll,1065
+chow mein,1059
+mushroom,1014
+toma,924
+hot and sour soup,880
+asino,861
+lo mein,853
+honey,846
+cheese,823
+pf chang,818
+the orange chicken,785
+hong kong,758
+lemon,755
+soy sauce,755
+cookie,741
+wonton soup,730
+steak,706
+gur,703
+lobster,699
+fast food,686
+kung pao chicken,683
+black bean,676
+dal,676
+nuts,668
+won ton,662
+mushrooms,640
+white rice,606
+sesame chicken,575
+salt and pepper,567
+chinese buffet,558
+rice noodle,522
+ice cream,510
+hot pot,505
+brown rice,505
+pork belly,474
+lamb,466
+pork chop,466
+deep fried,465
+strip mall,457
+calamari,442
+green bean,432
+fried chicken,425
+chicken fried,420
+green onion,417
+chicken wings,414
+cucumber,405
+sea bass,403
+green beans,380
+sandwich,379
+menta,359
+pici,347
+dipping sauce,345
+ada,334
+cream cheese,334
+dried,328
+rice noodles,328
+peas,327
+squid,325
+general tso's chicken,324
+salmon,324
+fortune cookie,323
+garlic sauce,321
+basil,314
+stir fry,302
+iced tea,302
+beef chow fun,298
+roti,298
+peking duck,296
+chile,290
+sweet and sour pork,283
+honey walnut,283
+egg foo young,279
+chili sauce,275
+black beans,274
+steamed rice,269
+pizza,267
+san francisco,267
+chinese cuisine,265
+bok choy,262
+sage,261
+congee,258
+green tea,257
+dimsum,255
+sushi samba,255
+pork chops,254
+sticky rice,251
+credit card,247
+asian cuisine,246
+burrito,243
+wonton noodle,234
+stir fried,234
+sweet and sour sauce,227
+cashew chicken,225
+black pepper,224
+main course,217
+mexican food,216
+spare ribs,211
+short rib,210
+bay area,198
+green onions,187
+spinach,187
+sushi rolls,185
+riso,185
+hot sauce,182
+tripe,181
+brown sauce,181
+comfort food,180
+bell pepper,179
+vermicelli,177
+americanized chinese food,177
+tom yum,174
+potatoes,171
+oyster sauce,170
+filet,166
+pita,163
+bacon,161
+great wall,161
+bean curd,159
+food court,158
+fish tank,158
+salsa,157
+jade chicken,143
+shaved ice,140
+peanut sauce,139
+mu shu,137
+mint,135
+gold coast,132
+food poisoning,131
+los angeles,130
+xo sauce,129
+miso soup,128
+pears,127
+rice cake,127
+condensed milk,119
+asparagus,117
+language barrier,115
+fried egg,115
+guacamole,115
+meatball,112
+standard chinese,111
+gluten free,110
+bell peppers,108
+kobe beef,106
+char siu,104
+mele,103
+with black bean sauce,101
+pepper steak,100
+chop suey,100
+chicken rice,98
+chili pepper,98
+fish ball,98
+hoisin sauce,97
+mapo tofu,97
+california roll,96
+pere,92
+fried fish,92
+green pepper,92
+fish sauce,92
+red pepper,86
+mandalay bay,85
+red chili,83
+pork ribs,82
+coconut milk,81
+truffle,80
+fruits,80
+date night,80
+shark fin,80
+soy milk,79
+mussels,79
+pasta,79
+sesame seed,78
+of garlic,77
+general chicken,77
+salad bar,73
+sweet potato,73
+zucchini,73
+jasmine tea,73
+duck sauce,72
+credit cards,70
+beef broccoli,70
+spaghetti,68
+refried beans,67
+lo mien,67
+chicken soup,66
+roti canai,65
+prime rib,64
+japanese food,64
+braised pork,63
+filet mignon,63
+sesame seeds,61
+almond chicken,59
+planet hollywood,59
+strawberries,58
+monte carlo,58
+soft drink,58
+chips and salsa,58
+ribeye,57
+octopus,56
+chinese sausage,56
+sesame oil,56
+taco bell,56
+frog legs,55
+southern california,54
+napa cabbage,54
+chocolate cake,53
+food truck,53
+twice cooked pork,52
+mixed vegetable,52
+peanut butter,52
+san gabriel,51
+mu shu pork,51
+saving grace,51
+great taste,50
+the stir fry,49
+monday night,49
+hot n sour soup,49
+cash register,48
+foie gras,48
+beef tenderloin,48
+bobo brazil,48
+sin city,47
+french fries,47
+diet coke,46
+margaritas,46
+red rice,44
+chicken skewer,44
+las vegas strip,42
+egg white,42
+corn starch,42
+olive,42
+bitter melon,42
+acqui,41
+hot dog,40
+red peppers,40
+monterey park,40
+sunday brunch,40
+guy fieri,39
+neo tokyo,39
+the dimsum,39
+thai curry,39
+chinese american,38
+king crab,38
+vada,38
+sweet soy,37
+street food,37
+shrimp paste,37
+soft drinks,37
+jasmine rice,37
+soft serve,37
+mashed potato,36
+shark fin soup,36
+bubble tea,36
+bachelorette party,36
+tsao's chicken,35
+lazy susan,35
+new york style chinese,35
+san gabriel valley,35
+creme brule,34
+elba,34
+white sauce,34
+orange county,34
+apples,34
+mashed potatoes,33
+passion fruit,33
+lard,33
+pork chop rice,33
+rice paper,32
+bone marrow,32
+chorizo,32
+beef tongue,32
+guilty pleasure,31
+cantonese cuisine,31
+beef rice,31
+food allergies,31
+sea salt,30
+double check,30
+carnitas tacos,30
+tap water,30
+creme brulee,30
+litti,30
+light rail,30
+fondue,29
+downtown phoenix,28
+casa grande,28
+pulled pork,28
+fountain hills,28
+soda fountain,28
+christmas eve,28
+ravioli,28
+onion rings,27
+hash browns,27
+dive bar,27
+mai tai,27
+cantonese restaurant,27
+lotus root,27
+fried dough,27
+red onion,27
+scrambled eggs,26
+chinese noodles,26
+penda,26
+hard rock,26
+dried shrimp,26
+star anise,26
+dungeness crab,26
+chocolate mousse,25
+iceberg lettuce,25
+dumplings the,25
+salad dressing,25
+goose,25
+deep fried shrimp,24
+glutinous rice,24
+queen creek,24
+shrimp soup,24
+malaysian cuisine,24
+coconut chicken,24
+chinese chicken salad,24
+debit card,23
+oolong tea,23
+food chain,23
+red wine,23
+chen wok,23
+prix fixe,23
+chinese culture,23
+duck soup,22
+san francisco bay,22
+wonton strips,22
+air conditioning,22
+linguine,22
+chocolate chip,21
+tomato sauce,21
+pastor,21
+winter melon,21
+rush hour,21
+sugar cane,21
+veal,20
+white pepper,20
+home run,20
+vanilla ice,20
+pickles,20
+frozen food,19
+mexican cuisine,19
+sun prairie,19
+banana leaf,19
+hainanese chicken rice,19
+boba milk,19
+red snapper,19
+thai cuisine,18
+corn tortilla,18
+hockey puck,18
+key lime,18
+powdered sugar,18
+mixed drink,18
+fast casual,18
+pork blood,18
+al pastor,18
+lobster tail,18
+tourist trap,18
+white wine,18
+vanilla ice cream,17
+the mongolian beef and the,17
+century egg,17
+cheesecake factory,17
+hot plate,17
+olive garden,17
+alba,17
+eggplants,17
+long island,17
+french toast,16
+rock hard,16
+carrot cake,16
+food critic,16
+tiramisu,15
+enchilada,15
+macaroni,15
+eggs benedict,15
+french bread,15
+lamb chops,15
+bottled water,15
+fresh air,15
+melted cheese,15
+cheddar cheese,14
+white chocolate,14
+apple pie,14
+clay pots,14
+mozzarella,14
+sweet corn,14
+pizza hut,14
+gelato,14
+fruit salad,14
+identity crisis,14
+puri,14
+mgm grand,14
+kabob,14
+parmesan,14
+carne,14
+style dim,14
+fine dining restaurant,13
+dandan noodles,13
+red bean soup,13
+the fried rice and the,13
+asian american,13
+security guard,13
+whipped cream,13
+hot dogs,13
+small salad,13
+shopping mall,13
+beans and rice,13
+poached egg,12
+regular noodles,12
+blood orange,12
+parsley,12
+cherry blossom,12
+green salad,12
+the refried beans,12
+bachelor party,12
+low carb,12
+kick ass,12
+coca cola,12
+pesto,12
+family owned business,12
+sun city,12
+the chicken skewer,12
+rocket,12
+yui shan,12
+united states,12
+ginger beef,12
+enchiladas,11
+crispy kau,11
+kabobs,11
+deer valley,11
+baked potato,11
+mole sauce,11
+bloody mary,11
+pork and veggies,11
+won ton and,11
+celebrity chef,11
+roast beef,11
+flank steak,11
+pine nuts,11
+oregano,11
+jerk fried rice and black,10
+lazy sunday,10
+waiting staff,10
+lake mead,10
+amarone,10
+golden nugget,10
+the beef rice,10
+flat bread,10
+red velvet cake,10
+sour cream,10
+house music,10
+cast iron,10
+pinni,10
+dim sim,9
+movie theater,9
+romaine lettuce,9
+penne,9
+bari,9
+olives,9
+home depot,9
+fast food chain,9
+spinach salad,9
+wolfgang puck,9
+self service,9
+more frequently,9
+xiaolongbao,9
+inferno,9
+hard boiled egg,9
+smoked salmon,9
+sausages,9
+spring training,9
+ground beef,9
+birthday girl,9
+the gai lan,9
+chili powder,9
+high roller,9
+sardine,9
+camaron,9
+apache junction,8
+snails,8
+cave creek,8
+egg yolk,8
+anchovies,8
+punch card,8
+gordon ramsay,8
+tuna tartare,8
+skirt steak,8
+khar,8
+lasagna,8
+desert inn,8
+mahi mahi,8
+panna cotta,8
+gazpacho,8
+beef carpaccio,8
+carne asada,8
+cauliflower,8
+potato chip,8
+fettuccine,7
+cong you bing,7
+pepperoni,7
+cuttlefish,7
+naan,7
+del taco,7
+grilled octopus,7
+cotton candy,7
+frida kahlo,7
+buffalo wings,7
+caesar salad,7
+cirque du soleil,7
+arugula,7
+buddha's delight,6
+half chicken,6
+rice pudding,6
+health food,6
+provolone,6
+spanish rice,6
+circus circus,6
+spicy salsa,6
+lemon juice,6
+samosa,6
+chicken breasts,6
+momo,6
+tortilla chips,6
+fennel,6
+chocolate syrup,6
+pot roast,6
+key lime pie,6
+heart attack,6
+clam chowder,6
+brussels sprout,5
+hot chocolate,5
+alici,5
+freshly squeezed,5
+service oriented,5
+bow tie,5
+youtiao,5
+blue cheese,5
+white bread,5
+root beer,5
+garden salad,5
+big night,5
+shangri la,5
+corned beef,5
+crispy kau chee,5
+customer experience,5
+junk food,5
+diners drive ins and dives,5
+timo,5
+hip hop,5
+absolutely fabulous,5
+die hard,5
+grilled vegetables,5
+sweet pea,5
+meat tender,5
+risotto,5
+pork loin,5
+duck confit,5
+cottage cheese,5
+indian cuisine,5
+in n out,5
+ginger ale,5
+fine print,5
+corn dog,5
+deep fried fish,5
+finger food,5
+tea egg,5
+baba,4
+puffed rice,4
+arnold palmer,4
+mantou,4
+love happy,4
+assembly line,4
+strudel,4
+chocolate glaze,4
+baozi,4
+lamb tender,4
+small tacos,4
+rice chicken,4
+stained glass,4
+english muffin,4
+smoked ham,4
+super bowl,4
+canadian bacon,4
+jiaozi,4
+kebab,4
+cream pie,4
+grilled lamb,4
+potato chips,4
+cream dessert,4
+swap meet,4
+goat cheese,4
+pinot noir,4
+classic rock,4
+vindaloo,4
+speck,4
+god forbid,4
+free range,4
+tomato soup,4
+italian sausage,4
+idli,4
+bread pudding,3
+mac and cheese,3
+bread crumbs,3
+valet parking,3
+potato salad,3
+south asian,3
+white mushrooms,3
+water feature,3
+sea scallops,3
+balsamic vinegar,3
+yui shan chicken,3
+and a lemon,3
+grilled tomato,3
+black rice,3
+mascarpone,3
+braised abalone,3
+el pollo loco,3
+growing pains,3
+pita jungle,3
+tin foil,3
+flautas,3
+white trash,3
+mad men,3
+butter chicken,3
+steak medium,3
+upma,3
+graham cracker,3
+lactose intolerant,3
+dress code,3
+kitchen sink,3
+middle east,2
+shaobing,2
+shish kabob,2
+taco has,2
+falafel,2
+fish fry,2
+flip flops,2
+slow food,2
+olive tapenade,2
+butternut squash,2
+paradise valley,2
+sauvignon blanc,2
+santa monica,2
+great white,2
+art deco,2
+prosecco,2
+granita,2
+trotte,2
+golden corral,2
+breadsticks,2
+bowl of salsa,2
+bridal shower,2
+salisbury steak,2
+south india,2
+frou frou,2
+grand marnier,2
+game hen,2
+red bull,2
+patra,2
+ice cream sandwich,2
+amuse bouche,2
+frank sinatra,2
+milk chocolate,2
+lamian,2
+cool spot,2
+ossobuco,2
+pita bread,2
+rosetta,2
+sweet roll,2
+lobster bisque,2
+steak and chicken,2
+cornish hen,2
+ricotta,2
+salami,2
+van buren,2
+california pizza kitchen,2
+chicken fried steak,2
+rosemary,2
+peter piper,2
+shiro,2
+chicken fajitas,2
+peda,2
+zongzi,1
+and pickles,1
+short rib tacos,1
+designated driver,1
+lentil soup,1
+pappardelle,1
+mole chicken,1
+polenta,1
+sopa,1
+chicken garlic,1
+chickpeas,1
+mexican american,1
+sauerkraut,1
+guanciale,1
+soy egg,1
+frutti,1
+gobi manchurian,1
+guotie,1
+lamb rice,1
+home fries,1
+halo halo,1
+lardo,1
+marinara sauce,1
+dried fruit,1
+ritz carlton,1
+pound cake,1
+tater tots,1
+carne asada tacos,1
+sea urchin,1
+mexico city,1
+bay leaves,1
+basmati rice,1
+wine cooler,1
+calzone,1
+chef boyardee,1
+bolognese sauce,1
+ghari,1
+molecular gastronomy,1
+mexican flag,1
+white cut chicken,1
+couscous,1
+mexican street tacos,1
+sammy hagar,1
+barfi,1
+clam sauce,1
+grand canal,1
+cheese pie,1
+sports game,1
+rigatoni,1
+lasagne,1
+thyme,1
+chick fil a,1
+olive oil,1
+caprese,1
+bruschetta,1
+wine tasting,1
+caramelized onions,1
+garlic dip,1
+south indian,1
+rock candy,1
+baby food,1
+kanji,1
+chick peas,1
+biryani,1
+american cheese,1
+carbonara,1
+yogurt dip,1
+porcini mushrooms,1
+veggie burger,1
+profiterole,1
+lentils,1
+sierra nevada,1
+business casual,1
+pea puree,1
+brown butter,1
+tomatoes and onions,1
+ciabatta,1
+their garlic sauce,1
+capers,1
+gnocchi,1
+lamb shank,1
+truffle roasted,1
+angel wings,1
+swordfish,1
+wedding cake,1
+middle eastern,1
+huevos rancheros,1
+stir frying,1
+march madness,1
+goulash,1
+malga,1
+gavi,1
+greek food,1
+panino,1
+emeril lagasse,1
+strawberry shortcake,1
+chicken kabob,1
+humble pie,1
+kool aid,1
+wild rice,1
+pale ale,1
+bone in ribeye,1
+mint tea,1
+thai chinese,1
